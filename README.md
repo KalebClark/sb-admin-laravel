@@ -1,5 +1,7 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/)
 
+Modified to wedge into Laravel. I use this template frequently for admin panels.
+
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
